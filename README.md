@@ -1,6 +1,6 @@
-# flyweb
+# CampusTitan
 
-FlyWeb application.
+CampusTitan application based on flutter.
 
 ## Getting Started
 
